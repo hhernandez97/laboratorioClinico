@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url(../img/foto2.jpg);
+   
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed ;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+.btn{
+    margin-bottom:25px;
+    background: rgba(45, 61, 92, 0.568);
+
+    
+}
+.caja{
+    border-radius: 5px;
+    border: 3px solid #fff;
+    margin: 150px auto;
+    text-align: center;
+    color: #fff;
+    font-family:Arial;
+    background: rgba(45, 61, 92, 0.568);
+    width: 800px;
+} 
